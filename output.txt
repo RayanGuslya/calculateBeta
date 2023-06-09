@@ -1,1 +1,5 @@
-Operation Error!
+
+23 + 42 = 65.0
+14 - 0 = Error! Not number
+15 / 0 = Error! Division by zero
+42 * 2 = 84.0
